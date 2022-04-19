@@ -16,4 +16,4 @@ This is the code for the pure bash script for creating and updating a changelog.
 
 ## Supported Languages (with Repos)
 - [Bash](https://github.com/macro6461/changelog-bash-script)
-- Python (TBD)
+- Python ( TBD )
