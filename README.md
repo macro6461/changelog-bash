@@ -14,6 +14,6 @@ This is the code for the pure bash script for creating and updating a changelog.
 - Run `chmod u+x changelog.sh` to make it executable.
 - Run `./changelog.sh` and sit back while a Changelog is created or new changelog item is added that is aligned with today's date and version.
 
-## Supported Languages (with Repos)
+## Supported Languages (with repo links)
 - [Bash](https://github.com/macro6461/changelog-bash-script)
 - [Python](https://github.com/macro6461/changelog-py)
