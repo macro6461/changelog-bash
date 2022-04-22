@@ -23,10 +23,11 @@ $item
 
 new_changelog_item()
 {   
+    echo $item
 
     if grep -Fxq "$item" CHANGELOG.md; then 
-        echo "Changelog item already exists for 
-        $item"
+        echo "Changelog item already exists for
+    $item"
     else
         while read line; do
             if [[ $line == "## [Unreleased]"* ]]; then
